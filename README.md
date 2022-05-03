@@ -6,7 +6,7 @@ To use this password generator, simply press the "generate password" button on t
 
 This code creates an array of lower case letters as a baseline for password generation. Depending on user input, upper case letters, numbers, and special characters will be added. On final confirmation of user-selected parameters, a password will be randomly generated from the user-selected array.
 
-![Image](.\assets\images\Screenshot.png "Password Generator")
+![ScreenShot](./assets/images/Screenshot.png "Password Generator")
 
 This application is hosted on Github at https://heartsleeves.github.io/ILPasswordGen/.
 
